@@ -1,4 +1,4 @@
-langgenius/dify-sandbox:0.2.11
+langgenius/dify-plugin-daemon:0.0.6-local
 
 # ubuntu:20.04
 ##支持私库
