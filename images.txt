@@ -1,4 +1,4 @@
-xprobe/xinference:v0.15.2-cpu
+langgenius/dify-api:1.1.3
 
 # ubuntu:20.04
 ##支持私库
