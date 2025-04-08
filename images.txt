@@ -1,5 +1,4 @@
-langgenius/qdrant:v1.7.3
-
+ubuntu/squid:latest
 
 
 # ubuntu:20.04
