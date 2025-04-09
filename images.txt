@@ -1,4 +1,4 @@
-opensearchproject/opensearch:latest
+opensearchproject/opensearch-dashboards:latest
 
 # ubuntu:20.04
 ##支持私库
