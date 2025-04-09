@@ -1,4 +1,4 @@
-opengauss/opengauss:7.0.0-RC1
+myscale/myscaledb:1.6.4
 
 
 # ubuntu:20.04
