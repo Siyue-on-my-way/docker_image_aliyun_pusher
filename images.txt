@@ -1,5 +1,4 @@
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
-
+couchbase/server:latest
 
 # ubuntu:20.04
 ##支持私库
