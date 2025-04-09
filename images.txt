@@ -1,4 +1,5 @@
-opensearchproject/opensearch-dashboards:latest
+opengauss/opengauss:7.0.0-RC1
+
 
 # ubuntu:20.04
 ##支持私库
