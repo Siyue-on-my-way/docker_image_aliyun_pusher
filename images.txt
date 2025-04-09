@@ -1,4 +1,5 @@
-container-registry.oracle.com/database/free:latest
+milvus-etcd
+
 
 # ubuntu:20.04
 ##支持私库
