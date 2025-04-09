@@ -1,4 +1,4 @@
-myscale/myscaledb:1.6.4
+docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 
 
 # ubuntu:20.04
