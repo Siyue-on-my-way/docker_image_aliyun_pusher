@@ -1,4 +1,4 @@
-ghcr.io/chroma-core/chroma:0.5.20
+oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
 
 # ubuntu:20.04
 ##支持私库
