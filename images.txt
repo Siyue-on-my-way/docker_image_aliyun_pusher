@@ -1,4 +1,4 @@
-tensorchord/pgvecto-rs:pg16-v0.3.0
+ghcr.io/chroma-core/chroma:0.5.20
 
 # ubuntu:20.04
 ##支持私库
