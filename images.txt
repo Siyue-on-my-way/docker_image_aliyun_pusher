@@ -1,4 +1,4 @@
-milvus-etcd
+minhnn32/milvus-etcd
 
 
 # ubuntu:20.04
