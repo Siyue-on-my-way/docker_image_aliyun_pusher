@@ -1,4 +1,4 @@
-pgvector/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.3.0
 
 # ubuntu:20.04
 ##支持私库
