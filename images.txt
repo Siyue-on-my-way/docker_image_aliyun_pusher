@@ -1,4 +1,4 @@
-semitechnologies/weaviate:1.19.0
+certbot/certbot
 
 # ubuntu:20.04
 ##支持私库
