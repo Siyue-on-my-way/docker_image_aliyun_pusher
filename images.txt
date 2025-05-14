@@ -1,4 +1,4 @@
-grafana/promtail:2.9.2
+grafana/loki:3.5
 
 # ubuntu:20.04
 ##支持私库
